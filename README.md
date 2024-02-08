@@ -21,5 +21,5 @@ pip install whisper
 step - 3
 Then run the voice_to_audio.py using 
 ```
-streamlit run voice_to_audio.py
+streamlit run voice_to_text.py
 ```
